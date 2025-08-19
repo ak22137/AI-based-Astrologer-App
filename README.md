@@ -1,5 +1,6 @@
 # AI Astrologer App
 https://github.com/user-attachments/assets/70413bda-930e-4f9c-ac42-bfb673c57493
+
 This is a simple AI-powered astrology application built with Streamlit, LangChain, and LangGraph.
 
 ## Features
